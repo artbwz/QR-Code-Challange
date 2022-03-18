@@ -1,0 +1,34 @@
+body {
+  position: relative;
+  background-color: black;
+}
+
+img {
+  margin: 10px;
+  width: 130px;
+  height: 120px;
+  border-radius: 5%;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+  margin-top: 0;
+}
+
+.qr-container {
+  background-color: white;
+  width: 150px;
+  height: 240px;
+  border-radius: 10%;
+  margin: auto;
+}
+
+.out-container {
+  background-color: #d6e2f0;
+  display: flex;
+  margin: 0 auto;
+  width: 1080px;
+  height: 640px;
+}
