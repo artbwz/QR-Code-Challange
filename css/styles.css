@@ -1,5 +1,9 @@
 body {
-  position: relative;
+  display: block;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  height: 100%;
   background-color: black;
   font-family: 'Outfit', sans-serif;
 }
